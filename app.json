@@ -38,12 +38,7 @@
     "TG_BOT_TOKEN": {
       "description": "هنا ضع توكن بوتك الذي صنعته",
       "value": ""
-  
-    },
-    "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق",
-      "value": "",
-      "required": false
+ 
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
